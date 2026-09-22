@@ -8,11 +8,7 @@ APEX turns lap telemetry into a professional analysis workspace: orbit a procedu
 
 ## Visual showcase
 
-### Aero-load analysis
-
 ![APEX telemetry workspace showing the Monaco aero-load layer, circuit map, driver inputs, and synchronized lap trace](docs/images/apex-aero-analysis.png)
-
-### Brake-heat analysis
 
 ![APEX 3D open-wheel car showing the Monaco brake-heat layer with per-wheel temperatures and driver telemetry](docs/images/apex-brake-heat.png)
 
