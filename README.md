@@ -6,6 +6,16 @@ APEX turns lap telemetry into a professional analysis workspace: orbit a procedu
 
 > **Real inputs. Transparent estimates.** Speed, throttle, brake state, gear, RPM, position, timing, tyres, and weather come from FastF1. Brake temperature, wheel loads, g-forces, and downforce are explicitly labelled, uncalibrated physics estimates—not measured team telemetry.
 
+## Visual showcase
+
+### Aero-load analysis
+
+![APEX telemetry workspace showing the Monaco aero-load layer, circuit map, driver inputs, and synchronized lap trace](docs/images/apex-aero-analysis.png)
+
+### Brake-heat analysis
+
+![APEX 3D open-wheel car showing the Monaco brake-heat layer with per-wheel temperatures and driver telemetry](docs/images/apex-brake-heat.png)
+
 ## Highlights
 
 - **Interactive 3D car** with orbit, top, and side cameras
