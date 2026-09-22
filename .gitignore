@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.venv/
+.venv-data/
+.python/
+.uv-cache/
+.fastf1-cache/
+__pycache__/
+.DS_Store
+test-results/
+playwright-report/
